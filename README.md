@@ -23,8 +23,7 @@ A modern Web3 decentralized application (DApp) built with React, Vite, and Web3 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd nft-dapp
+   git clone https://github.com/HelloMyNameIsSeth/Staking-Marketplace-Dapp-public.git
    ```
 
 2. **Install dependencies**
