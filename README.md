@@ -1,4 +1,4 @@
-# Your Project - NFT Staking & Marketplace DApp
+# NFT Staking & Marketplace DApp
 
 A modern Web3 decentralized application (DApp) built with React, Vite, and Web3 technologies. This platform enables users to stake NFTs, trade on a marketplace, participate in raffles, and view leaderboards.
 
