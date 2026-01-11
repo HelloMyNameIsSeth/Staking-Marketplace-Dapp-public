@@ -4,13 +4,13 @@
 
 A modern Web3 DApp built with React, Vite, and Ethereum technologies, featuring NFT staking, a marketplace, raffles, and leaderboards.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Core:** React 18, Vite, Redux Toolkit, React Router v6
 - **Web3:** Web3.js, Wagmi, RainbowKit
 - **UI:** Material-UI (MUI), JSS, Emotion
 
-## ✨ Features
+## Features
 
 - **NFT Staking:** Earn rewards by staking NFTs.
 - **Marketplace:** Buy/Sell NFTs securely.
@@ -19,7 +19,7 @@ A modern Web3 DApp built with React, Vite, and Ethereum technologies, featuring 
 - **Wallet Auth:** Seamless login via MetaMask/RainbowKit.
 - **Responsive:** Optimized for all devices.
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -52,7 +52,7 @@ A modern Web3 DApp built with React, Vite, and Ethereum technologies, featuring 
 
    Access at `http://localhost:5173`
 
-## 📂 Structure
+## Structure
 
 - `src/components/`: Reusable UI components (Banner, Header, NftList).
 - `src/pages/`: Main views (Stake, Marketplace, Leaderboard).
@@ -60,6 +60,6 @@ A modern Web3 DApp built with React, Vite, and Ethereum technologies, featuring 
 - `src/services/`: API and Web3 integration.
 - `src/config/`: App and HTTP configuration.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
